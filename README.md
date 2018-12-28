@@ -3,7 +3,7 @@ An introduction to Discrete Fast Fourier Transform aimed at those who would like
 
 To compile the LaTeX source code you can use either texlive (Linux) or MiKTeX (Windows).
 
-Donwload the PDF [here](https://github.com/rvprg/dfft/blob/master/dfft.pdf).
+[Download PDF](https://github.com/rvprg/dfft/blob/master/dfft.pdf).
 
 ## Table of Contents 
 * Complex Numbers
